@@ -19,4 +19,6 @@ Nowadays, the use of online services to watch movies has become familiar for peo
 
 - Applied Collaborative Filtering and Matrix Factorization methods to construct a recommendation system with PySpark
 # File
-- PDF repor
+- 1 readme file
+- 1 ipynb include code for analysis and visuzlation data
+- 2 PDF report export from 2 ipynb file. (one not show in here)
