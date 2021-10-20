@@ -25,7 +25,7 @@ Nowadays, the use of online services to watch movies has become familiar for peo
 - Applied Collaborative Filtering and Matrix Factorization methods to construct a recommendation system with PySpark
 # System architecture
 
-![System](https://github.com/uyentt99/Movielen/blob/main/Picture/SystemStructure.png)
+![System](https://github.com/uyentt99/Movielen/blob/main/Picture/SystemStructure.png) 
 
 # Data stored in HDFS
 
