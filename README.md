@@ -18,3 +18,5 @@ Nowadays, the use of online services to watch movies has become familiar for peo
 - Get more movie detail through ImdbPy
 
 - Applied Collaborative Filtering and Matrix Factorization methods to construct a recommendation system with PySpark
+# File
+- PDF repor
